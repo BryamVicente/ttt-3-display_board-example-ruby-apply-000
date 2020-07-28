@@ -8,3 +8,7 @@ puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 end
+
+def print_board
+    puts "A Tic Tac Toe Board"
+  end
