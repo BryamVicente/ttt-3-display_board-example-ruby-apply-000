@@ -4,7 +4,7 @@ def display_board
 end
 
 puts "   |   |   "
-puts "\n-----------\n"
+puts "-----------"
 puts "   |   |   "
-puts "\n-----------\n"
+puts "-----------"
 puts "   |   |   "
